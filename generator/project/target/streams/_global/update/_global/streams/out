@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/C:/Users/Bálint/Documents/GitHub/Scala_Arcade/generator/project/"), "generator-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating generator-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved generator-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of generator-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of generator-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/C:/Users/Bálint/Documents/GitHub/Scala_Arcade/generator/project/"), "generator-build")[0m
