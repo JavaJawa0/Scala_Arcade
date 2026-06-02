@@ -64,3 +64,7 @@ if os.path.exists(csv_path):
 else:
     st.error("Error: Arcade database offline. data/telemetry.csv not found.")
     st.info("Please run the Scala generator inside the generator/ folder to populate the data directory.")
+
+    # This automatically calculates the correct path relative to this app.py file
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+csv_path = os.path.join(BASE_DIR, "data", "telemetry.csv")

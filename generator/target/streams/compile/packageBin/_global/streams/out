@@ -1,13 +1,1 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Bálint\Documents\GitHub\Scala_Arcade\generator\target\scala-3.3.1\arcade-generator_3-1.0.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	ArcadeSimulator$package$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bálint\Documents\GitHub\Scala_Arcade\generator\target\scala-3.3.1\classes\ArcadeSimulator$package$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	ArcadeSimulator$package.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bálint\Documents\GitHub\Scala_Arcade\generator\target\scala-3.3.1\classes\ArcadeSimulator$package.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	ArcadeSimulator$package.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bálint\Documents\GitHub\Scala_Arcade\generator\target\scala-3.3.1\classes\ArcadeSimulator$package.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	bootArcade.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bálint\Documents\GitHub\Scala_Arcade\generator\target\scala-3.3.1\classes\bootArcade.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	bootArcade.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bálint\Documents\GitHub\Scala_Arcade\generator\target\scala-3.3.1\classes\bootArcade.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: C:\Users\Bálint\Documents\GitHub\Scala_Arcade\generator\target\scala-3.3.1\arcade-generator_3-1.0.jar[0m
